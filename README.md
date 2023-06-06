@@ -1,15 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Sergio!👋
+Here are my practices portfolio with Unity and C#, enjoy!
 
-jkahsdjkhasd
-
-asdkjhgasd
-
-#asdasd
-##asdasd
-###asdasdasd
-
-####Asdasdasd
-
+- 🔭 I’m currently working on: Games Mechanics.
+- ⚡ Fun fact: I prefer to code among play the game.😂
 <!--
 **S3rMaX/S3rMaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
